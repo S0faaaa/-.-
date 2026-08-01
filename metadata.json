@@ -1,0 +1,8 @@
+{
+  "name": "M.Спорт",
+  "description": "Спортивное приложение для школьников и учителей с автосчетом упражнений, видеоанализом и календарем тренировок",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
